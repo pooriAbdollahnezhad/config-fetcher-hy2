@@ -4,6 +4,8 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
+hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563/?sni=h2.gzcloud.shop&obfs=salamander&obfs-password=rPvCrCom7ETCNOvA#%40REDFREE8
+
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.10101251.xyz#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443/?sni=0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
@@ -22,6 +24,8 @@ hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.sinavm.ir:80/?sni=sinav
 
 hysteria2://Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM@sinavm.soft10.ir:443/?obfs=salamander&obfs-password=Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
+hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35000/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40REDFREE8
+
 hysteria2://b72ba5d5-2d5e-45b7-93b5-236d343baa7c@64.181.207.162:47262/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@108.181.23.241:443/?mport=20000-55000&insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
@@ -35,6 +39,10 @@ hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443/?mport=20000
 hysteria2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.79:443/?mport=20000-55000&insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://cfe032e4-1bc3-454f-9d09-301b0aea08ff@40.233.70.163:45979/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%A8%F0%9F%87%A6
+
+hysteria2://dongtaiwang.com@45.129.2.108:50850/?insecure=1&sni=www.bing.com#%40REDFREE8
+
+hysteria2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#%40REDFREE8
 
 hysteria2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#%40REDFREE8%20%F0%9F%87%B7%F0%9F%87%BA
 
