@@ -4,8 +4,6 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://0c4c1a89-5645-4fc2-9e3b-ab09aa44e933@62.72.163.159:13563/?sni=h2.gzcloud.shop&obfs=salamander&obfs-password=rPvCrCom7ETCNOvA#%40REDFREE8
-
 hysteria2://14bdcd31-8a9f-4cf1-8fcc-60045900357d@107.175.34.118:3002/?sni=us.10101251.xyz#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://203d1d64-3313-11ed-bb74-f23c9164ca5d@107.167.18.102:8443/?sni=0e1462f1-sum4g0-t8ro7t-1ey07.hy2.gotochinatown.net#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
