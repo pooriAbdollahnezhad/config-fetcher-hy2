@@ -14,6 +14,8 @@ hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36300/?sni=YAPC-1
 
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
+hysteria2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#%40REDFREE8
+
 hysteria2://dongtaiwang.com@46.17.41.5:12904/?insecure=1&sni=apple.com#%40REDFREE8%20%F0%9F%87%B7%F0%9F%87%BA
 
 hysteria2://dongtaiwang.com@51.159.111.32:31180/?insecure=1&sni=apple.com#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
