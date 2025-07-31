@@ -79,13 +79,13 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 hysteria2-45e5d659 (United States)",
-        "🇺🇸 hysteria2-b8e7a897 (United States)",
-        "🏳️ hysteria2-d6d91043 (Unknown)",
-        "🏳️ hysteria2-f3a1c1cc (Unknown)",
-        "🏳️ hysteria2-e21c52cf (Unknown)",
-        "🇷🇺 hysteria2-56038bf6 (Russia)",
-        "🇫🇷 hysteria2-9537c6da (France)",
+        "🇺🇸 hysteria2-3155570c (United States)",
+        "🇺🇸 hysteria2-0f9d8911 (United States)",
+        "🏳️ hysteria2-aa75a434 (Unknown)",
+        "🏳️ hysteria2-dd132dc7 (Unknown)",
+        "🏳️ hysteria2-8332bd35 (Unknown)",
+        "🇷🇺 hysteria2-90a5f3a7 (Russia)",
+        "🇫🇷 hysteria2-2bf83470 (France)",
         "direct"
       ]
     },
@@ -93,13 +93,13 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 hysteria2-45e5d659 (United States)",
-        "🇺🇸 hysteria2-b8e7a897 (United States)",
-        "🏳️ hysteria2-d6d91043 (Unknown)",
-        "🏳️ hysteria2-f3a1c1cc (Unknown)",
-        "🏳️ hysteria2-e21c52cf (Unknown)",
-        "🇷🇺 hysteria2-56038bf6 (Russia)",
-        "🇫🇷 hysteria2-9537c6da (France)"
+        "🇺🇸 hysteria2-3155570c (United States)",
+        "🇺🇸 hysteria2-0f9d8911 (United States)",
+        "🏳️ hysteria2-aa75a434 (Unknown)",
+        "🏳️ hysteria2-dd132dc7 (Unknown)",
+        "🏳️ hysteria2-8332bd35 (Unknown)",
+        "🇷🇺 hysteria2-90a5f3a7 (Russia)",
+        "🇫🇷 hysteria2-2bf83470 (France)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -111,7 +111,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-45e5d659 (United States)",
+      "tag": "🇺🇸 hysteria2-3155570c (United States)",
       "server": "107.167.18.102",
       "server_port": 8443,
       "password": "3ee091ca-ab9c-11ef-a791-f23c9164ca5d",
@@ -123,7 +123,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-b8e7a897 (United States)",
+      "tag": "🇺🇸 hysteria2-0f9d8911 (United States)",
       "server": "192.227.152.86",
       "server_port": 61001,
       "password": "5CBqBh6MeDq6GajcilBiDg%3D%3D",
@@ -135,7 +135,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🏳️ hysteria2-d6d91043 (Unknown)",
+      "tag": "🏳️ hysteria2-aa75a434 (Unknown)",
       "server": "2a14:3f87:f001:13::a",
       "server_port": 35200,
       "password": "Yet-Another-Public-Config-1",
@@ -147,7 +147,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🏳️ hysteria2-f3a1c1cc (Unknown)",
+      "tag": "🏳️ hysteria2-dd132dc7 (Unknown)",
       "server": "2a14:3f87:f001:13::a",
       "server_port": 36300,
       "password": "Yet-Another-Public-Config-1",
@@ -159,7 +159,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🏳️ hysteria2-e21c52cf (Unknown)",
+      "tag": "🏳️ hysteria2-8332bd35 (Unknown)",
       "server": "2a14:3f87:f001:13::a",
       "server_port": 36400,
       "password": "Yet-Another-Public-Config-1",
@@ -171,7 +171,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇷🇺 hysteria2-56038bf6 (Russia)",
+      "tag": "🇷🇺 hysteria2-90a5f3a7 (Russia)",
       "server": "46.17.41.5",
       "server_port": 12904,
       "password": "dongtaiwang.com",
@@ -183,7 +183,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇫🇷 hysteria2-9537c6da (France)",
+      "tag": "🇫🇷 hysteria2-2bf83470 (France)",
       "server": "51.159.111.32",
       "server_port": 31180,
       "password": "dongtaiwang.com",
