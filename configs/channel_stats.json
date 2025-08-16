@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-16T16:15:13.168199+00:00",
+  "timestamp": "2025-08-16T18:17:38.933235+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H#hy2",
@@ -8,11 +8,11 @@
         "total_configs": 621,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.26,
-        "last_success": "2025-08-16T16:15:11.123803+00:00",
+        "overall_score": 75.17,
+        "last_success": "2025-08-16T18:17:36.863775+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 9,
@@ -31,11 +31,11 @@
         "total_configs": 81,
         "valid_configs": 9,
         "unique_configs": 9,
-        "avg_response_time": 0.04,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.71,
-        "last_success": "2025-08-16T16:15:13.167511+00:00",
+        "overall_score": 77.68,
+        "last_success": "2025-08-16T18:17:38.932598+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 9,
