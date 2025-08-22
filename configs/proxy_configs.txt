@@ -4,8 +4,6 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.52.235:30300/?insecure=1&sni=www.bing.com#%40REDFREE8
-
 hysteria2://2429bee3-e0c1-47dd-b420-75e6512b184b@129.153.52.235:30300/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%A8%F0%9F%87%A6
 
 hysteria2://3hszBhqVsUhqOOFWJlev6k6Tkc@54.255.144.66:22509/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AC
@@ -59,4 +57,6 @@ hysteria2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#%40RED
 hysteria2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%40REDFREE8
+
+hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
