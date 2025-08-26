@@ -26,19 +26,17 @@ hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=
 
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
-hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%40REDFREE8
-
 hysteria2://8864aa9f-7517-4fd5-aef1-32050eb3095d@[2001:19f0:5001:5b:5400:5ff:fe8e:c12]:30205/?insecure=1&sni=net2025.afsharidempire.uk&obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://FREEEE_7.87958795@91.107.251.13:443/?insecure=1&sni=fast.com&obfs=salamander&obfs-password=aA%408795#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#%40REDFREE8
 
 hysteria2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%AD%F0%9F%87%B0
 
 hysteria2://Telegram--%3E%40Ln2Ray@[2a12:5940:1680::2]:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
 
 hysteria2://Telegram--%3E%40Ln2Ray@[2a12:5940:1680::2]:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
-
-hysteria2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#%40REDFREE8
 
 hysteria2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%AD%F0%9F%87%B0
 
@@ -59,4 +57,6 @@ hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36600/?insecure=1
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40REDFREE8%20%F0%9F%87%B9%F0%9F%87%B7
 
 hysteria2://b7fd9c0c-18f8-426f-8ac7-f9aa3da2e214@45.136.245.177:80/?insecure=1&obfs=salamander&obfs-password=OGU1NTEyMGE2ZDhkODdhOQ%3D%3D#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+
+hysteria2://de8854c7-fa17-4266-ae18-50a9732a0c4e@198.23.130.221:3001/?insecure=1&sni=us2.1010991.xyz#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
