@@ -58,7 +58,5 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%4
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
-hysteria2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%40REDFREE8
-
 tuic://80747420-96c4-4a2f-83e6-eea4e46beb09:80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:41053/?congestion_control=cubic&udp_relay_mode=native&sni=drhystuichdfy.samanidempire.org&alpn=h3#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AA
 
