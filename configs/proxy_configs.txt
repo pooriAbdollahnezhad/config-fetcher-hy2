@@ -24,8 +24,6 @@ hysteria2://7992f244-8c2c-4a1a-923f-2e116e90149b@198.23.130.211:443/?mport=26666
 
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
-hysteria2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%40REDFREE8
-
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335/?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AA
 
 hysteria2://8418fb71-419d-4fc3-8b29-d7fee8de76c7@104.168.34.109:443/?mport=49999-65000&insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
