@@ -14,8 +14,6 @@ hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe5
 
 hysteria2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@142.91.101.45:2055/?insecure=1&sni=xjp1.mangshe.xyz#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AC
 
-hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%40REDFREE8
-
 hysteria2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
 hysteria2://80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:20335/?insecure=1&sni=drhystuichdfy.samanidempire.org&obfs=salamander&obfs-password=U1wBrYQyFm#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AA
@@ -59,6 +57,8 @@ hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36600/?insecure=1
 hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36600/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://bugfreenet:nPyizH8EsskiBiA77I18AiEKO6Pvhdpv@195.254.165.129:1020/?insecure=1&sni=miro.com&obfs=salamander&obfs-password=xWohnzWhd3zkjxlMSwdgbGbAjtbAFzID#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
+
+hysteria2://cf125f42-759d-4112-82c3-014d2ffcb1e7@185.85.242.177:1443/?sni=gbr1.587458.xyz#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
 
 tuic://80747420-96c4-4a2f-83e6-eea4e46beb09:80747420-96c4-4a2f-83e6-eea4e46beb09@70.34.215.221:41053/?congestion_control=cubic&udp_relay_mode=native&sni=drhystuichdfy.samanidempire.org&alpn=h3#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AA
 
