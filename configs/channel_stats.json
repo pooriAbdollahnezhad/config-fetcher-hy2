@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-09-23T18:19:35.351392+00:00",
+  "timestamp": "2025-09-23T20:14:10.102228+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H#hy2",
@@ -12,7 +12,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.99,
-        "last_success": "2025-09-23T18:19:33.227800+00:00",
+        "last_success": "2025-09-23T20:14:07.972105+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 38,
