@@ -6,8 +6,6 @@
 
 hysteria2://06b2ac52-fcc6-11ec-bb74-f23c9164ca5d@220.246.94.129:443/?sni=d24ca6a4-t46kg0-t9byd7-1jfvb.hk1.hyhuawei.com#%40REDFREE8%20%F0%9F%87%AD%F0%9F%87%B0
 
-hysteria2://308d37dc-cfe1-4d81-a095-d576f90cf581@85.237.206.207:29854/?insecure=1&sni=www.bing.com#%40REDFREE8
-
 hysteria2://4lfza9FcNUR4zI2B6r1KfgBfCo@100.20.54.3:7246/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://5SOWzgSFHfQxIGG8Qjf73Eeb7ZE@18.236.242.126:13936/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
@@ -32,13 +30,9 @@ hysteria2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:35200/?sni=YAPC-1
 
 hysteria2://YwuvGJk36B@81.168.83.89:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko%40smad%40ret#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
 
-hysteria2://YwuvGJk36B@filtercheebyha.arshiacomplus.dpdns.org:2083/?insecure=1&sni=kotlet.arshiacomplus.dpdns.org&obfs=salamander&obfs-password=khameniiko%40smad%40ret#%40REDFREE8
-
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@108.165.213.197:23891/?insecure=1&sni=fus01.mistea.top#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
-
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@38.45.89.97:23892/?insecure=1&sni=fus02.mistea.top#%40REDFREE8
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%40REDFREE8
 
