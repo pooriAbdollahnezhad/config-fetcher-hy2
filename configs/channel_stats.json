@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-11-26T01:05:43.456417+00:00",
+  "timestamp": "2025-11-26T03:09:58.393123+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/T,H#hy2",
@@ -8,11 +8,11 @@
         "total_configs": 9996,
         "valid_configs": 49,
         "unique_configs": 49,
-        "avg_response_time": 0.08,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.01,
-        "last_success": "2025-11-26T01:05:41.389607+00:00",
+        "overall_score": 75.02,
+        "last_success": "2025-11-26T03:09:56.350857+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 46,
@@ -28,17 +28,17 @@
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/hy2.html",
       "enabled": true,
       "metrics": {
-        "total_configs": 400,
-        "valid_configs": 20,
-        "unique_configs": 20,
-        "avg_response_time": 0.06,
+        "total_configs": 729,
+        "valid_configs": 27,
+        "unique_configs": 27,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 76.16,
-        "last_success": "2025-11-26T01:05:43.455809+00:00",
+        "overall_score": 75.88,
+        "last_success": "2025-11-26T03:09:58.392349+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 20,
+          "hysteria2://": 27,
           "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
