@@ -4,15 +4,11 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://02d5cdeb-e711-44d9-99a2-b88b129df428@xbly.qishuijc.top:40400/?sni=xbly.qishuijc.top&obfs=salamander&obfs-password=MWM0NDYzYmVjY2Q2YWFlNA%3D%3D#%40REDFREE8%20%F0%9F%87%B7%F0%9F%87%BA
-
-hysteria2://0c5ee5f1-fed2-45b6-9da5-cd429840f388@jnd.jgpyjc.top:40000/?sni=jnd.jgpyjc.top&obfs=salamander&obfs-password=NmZjOTM5ODJmMWIzNWRkOA%3D%3D#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
-
-hysteria2://0c5ee5f1-fed2-45b6-9da5-cd429840f388@xbly.jgpyjc.top:40000/?sni=xbly.jgpyjc.top&obfs=salamander&obfs-password=NmZjOTM5ODJmMWIzNWRkOA%3D%3D#%40REDFREE8%20%F0%9F%87%B7%F0%9F%87%BA
-
-hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743/?insecure=1&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
-
 hysteria2://16955d72-1794-11f0-a035-f23c95b6f51d@107.167.18.123:1743?security=tls&insecure=0&sni=fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk#%40REDFREE8
+
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@107.167.18.123:1743/?insecure=1&sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+
+hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743/?sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk:1743?security=tls&insecure=0&sni=3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk#%40REDFREE8
 
@@ -32,33 +28,37 @@ hysteria2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la
 
 hysteria2://1b609740-eec2-11ef-8543-f23c93136cb3@c0a37350-t4x400-tdtx5w-au6.la.shifen.uk:443/?mport=20000-50000&insecure=1#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
-hysteria2://1b9c460e-f026-11ef-b737-f23c91cfbbc9@824b4a30-t6e740-t7t5pe-1s0a7.hk2.hyhuawei.com:443/#%40REDFREE8%20%F0%9F%87%AD%F0%9F%87%B0
-
 hysteria2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000/#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@129.146.119.91:443/?mport=50000-65535&insecure=1&sni=phoenix-1.nezhasu.com#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://40639730-e027-11ea-87ad-f23c913c8d2b@96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com:443/?mport=30000-60000&sni=96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com#%40REDFREE8%20%F0%9F%87%AD%F0%9F%87%B0
 
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@132.145.21.45:443/?mport=50000-65535&insecure=1&sni=lundun1.nezhasu.com#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
-
-hysteria2://2b195c17-5ff5-4b0d-a809-210b92212394@140.245.35.215:443/?mport=50000-65535&insecure=1&sni=Singaporex-4.nezhasu.com#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@107.167.18.123:1743/?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743/?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#%40REDFREE8
 
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743/?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
-
 hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743?security=tls&insecure=0&sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#%40REDFREE8
 
-hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk:1743/#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://537d7098-fdbe-11ef-8ebc-f23c93141fad@eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk:443/?mport=20000-50000&sni=eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
-hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@[2001:470:1f0e:3d2::ac7:b815]:443/?insecure=1&sni=us11.588878.xyz&obfs=salamander&obfs-password=jjQQP9Av2l6BRdP5#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
 
-hysteria2://59f5893e-b85a-44f7-911f-bd0b3f92069b@us11.588878.xyz:443/?insecure=1&sni=us11.588878.xyz&obfs=salamander&obfs-password=jjQQP9Av2l6BRdP5#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk:1743/?insecure=1#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://77238c49bd20e407f05e0c073ad08fdb@dd.openaccessnode.com:989/?sni=dd.ircybersec.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#%40REDFREE8%20%F0%9F%87%B8%F0%9F%87%AA
 
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@5bedbab5-t3bpc0-t49cd4-4550.la.shifen.uk:1743/#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de1.oomz.ru:30000/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
-hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk:1743/?sni=cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk#%40REDFREE8%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@de2.oomz.ru:30000/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@fr1.oomz.ru:30000/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
+
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@fr2.oomz.ru:30000/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
+
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl1.oomz.ru:30000/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
+
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@nl2.oomz.ru:30000/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
+
+hysteria2://7b5cbc6a-90a1-4b6e-994e-4c198b85f80b@uk1.oomz.ru:30000/?insecure=1&sni=bing.com#%40REDFREE8%20%F0%9F%87%AC%F0%9F%87%A7
 
 tuic://8687b6e0-ef24-4cd2-bcd2-02d3732bf554:dongtaiwang.com@[2001:bc8:32d7:302::16]:34997/?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
 
