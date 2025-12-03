@@ -79,34 +79,34 @@
       "type": "selector",
       "outbounds": [
         "auto",
-        "🇺🇸 hysteria2-d90bfd5c (United States)",
-        "🇺🇸 hysteria2-0f8c517c (United States)",
-        "🇺🇸 hysteria2-0217ad8b (United States)",
-        "🇺🇸 hysteria2-9d79d9c8 (United States)",
-        "🇺🇸 hysteria2-e20b459e (United States)",
-        "🇺🇸 hysteria2-21457ba4 (United States)",
-        "🇺🇸 hysteria2-e2412fca (United States)",
-        "🇺🇸 hysteria2-125f03c6 (United States)",
-        "🇺🇸 hysteria2-24285f8d (United States)",
-        "🇺🇸 hysteria2-c598bbe1 (United States)",
-        "🇺🇸 hysteria2-def8cdc6 (United States)",
-        "🇺🇸 hysteria2-01f355dd (United States)",
-        "🇺🇸 hysteria2-84423176 (United States)",
-        "🇺🇸 hysteria2-d2ad254d (United States)",
-        "🇳🇱 hysteria2-497ead15 (Netherlands)",
-        "🇺🇸 hysteria2-6ff12493 (United States)",
-        "🇭🇰 hysteria2-6c148e73 (Hong Kong)",
-        "🇺🇸 hysteria2-592638ed (United States)",
-        "🇺🇸 hysteria2-0af115c1 (United States)",
-        "🇺🇸 hysteria2-89df76cb (United States)",
-        "🇺🇸 hysteria2-ace5f7d4 (United States)",
-        "🇺🇸 hysteria2-f82a2319 (United States)",
-        "🇺🇸 hysteria2-98124e8f (United States)",
-        "🇺🇸 hysteria2-9ea2aa67 (United States)",
-        "🏳️ hysteria2-3dec10c7 (Unknown)",
-        "🇸🇪 hysteria2-33f21593 (Sweden)",
-        "🇩🇪 hysteria2-191ace36 (Germany)",
-        "🇩🇪 hysteria2-ef673fea (Germany)",
+        "🇺🇸 hysteria2-b3f9a7a3 (United States)",
+        "🇺🇸 hysteria2-e0311d20 (United States)",
+        "🇺🇸 hysteria2-5b44d5ab (United States)",
+        "🇺🇸 hysteria2-da8b70ce (United States)",
+        "🇺🇸 hysteria2-1b296287 (United States)",
+        "🇺🇸 hysteria2-cf57f65f (United States)",
+        "🇺🇸 hysteria2-7530e88d (United States)",
+        "🇺🇸 hysteria2-ccdabe7e (United States)",
+        "🇺🇸 hysteria2-895019ca (United States)",
+        "🇺🇸 hysteria2-49a87b0b (United States)",
+        "🇺🇸 hysteria2-2b3f3d58 (United States)",
+        "🇳🇱 hysteria2-d196e73f (Netherlands)",
+        "🇺🇸 hysteria2-a5a040d4 (United States)",
+        "🇭🇰 hysteria2-5e4cbee0 (Hong Kong)",
+        "🇺🇸 hysteria2-7f08e6bd (United States)",
+        "🇭🇰 hysteria2-e4fb4491 (Hong Kong)",
+        "🇺🇸 hysteria2-e887c23b (United States)",
+        "🇺🇸 hysteria2-d208c771 (United States)",
+        "🇺🇸 hysteria2-c4118607 (United States)",
+        "🇺🇸 hysteria2-fda19183 (United States)",
+        "🇺🇸 hysteria2-d272fe69 (United States)",
+        "🇺🇸 hysteria2-1d302261 (United States)",
+        "🇺🇸 hysteria2-ba38f39e (United States)",
+        "🇺🇸 hysteria2-43742bb9 (United States)",
+        "🇺🇸 hysteria2-3291da8c (United States)",
+        "🇺🇸 hysteria2-4f31fb1e (United States)",
+        "🇺🇸 hysteria2-9306f675 (United States)",
+        "🇭🇰 hysteria2-848466c1 (Hong Kong)",
         "direct"
       ]
     },
@@ -114,34 +114,34 @@
       "tag": "auto",
       "type": "urltest",
       "outbounds": [
-        "🇺🇸 hysteria2-d90bfd5c (United States)",
-        "🇺🇸 hysteria2-0f8c517c (United States)",
-        "🇺🇸 hysteria2-0217ad8b (United States)",
-        "🇺🇸 hysteria2-9d79d9c8 (United States)",
-        "🇺🇸 hysteria2-e20b459e (United States)",
-        "🇺🇸 hysteria2-21457ba4 (United States)",
-        "🇺🇸 hysteria2-e2412fca (United States)",
-        "🇺🇸 hysteria2-125f03c6 (United States)",
-        "🇺🇸 hysteria2-24285f8d (United States)",
-        "🇺🇸 hysteria2-c598bbe1 (United States)",
-        "🇺🇸 hysteria2-def8cdc6 (United States)",
-        "🇺🇸 hysteria2-01f355dd (United States)",
-        "🇺🇸 hysteria2-84423176 (United States)",
-        "🇺🇸 hysteria2-d2ad254d (United States)",
-        "🇳🇱 hysteria2-497ead15 (Netherlands)",
-        "🇺🇸 hysteria2-6ff12493 (United States)",
-        "🇭🇰 hysteria2-6c148e73 (Hong Kong)",
-        "🇺🇸 hysteria2-592638ed (United States)",
-        "🇺🇸 hysteria2-0af115c1 (United States)",
-        "🇺🇸 hysteria2-89df76cb (United States)",
-        "🇺🇸 hysteria2-ace5f7d4 (United States)",
-        "🇺🇸 hysteria2-f82a2319 (United States)",
-        "🇺🇸 hysteria2-98124e8f (United States)",
-        "🇺🇸 hysteria2-9ea2aa67 (United States)",
-        "🏳️ hysteria2-3dec10c7 (Unknown)",
-        "🇸🇪 hysteria2-33f21593 (Sweden)",
-        "🇩🇪 hysteria2-191ace36 (Germany)",
-        "🇩🇪 hysteria2-ef673fea (Germany)"
+        "🇺🇸 hysteria2-b3f9a7a3 (United States)",
+        "🇺🇸 hysteria2-e0311d20 (United States)",
+        "🇺🇸 hysteria2-5b44d5ab (United States)",
+        "🇺🇸 hysteria2-da8b70ce (United States)",
+        "🇺🇸 hysteria2-1b296287 (United States)",
+        "🇺🇸 hysteria2-cf57f65f (United States)",
+        "🇺🇸 hysteria2-7530e88d (United States)",
+        "🇺🇸 hysteria2-ccdabe7e (United States)",
+        "🇺🇸 hysteria2-895019ca (United States)",
+        "🇺🇸 hysteria2-49a87b0b (United States)",
+        "🇺🇸 hysteria2-2b3f3d58 (United States)",
+        "🇳🇱 hysteria2-d196e73f (Netherlands)",
+        "🇺🇸 hysteria2-a5a040d4 (United States)",
+        "🇭🇰 hysteria2-5e4cbee0 (Hong Kong)",
+        "🇺🇸 hysteria2-7f08e6bd (United States)",
+        "🇭🇰 hysteria2-e4fb4491 (Hong Kong)",
+        "🇺🇸 hysteria2-e887c23b (United States)",
+        "🇺🇸 hysteria2-d208c771 (United States)",
+        "🇺🇸 hysteria2-c4118607 (United States)",
+        "🇺🇸 hysteria2-fda19183 (United States)",
+        "🇺🇸 hysteria2-d272fe69 (United States)",
+        "🇺🇸 hysteria2-1d302261 (United States)",
+        "🇺🇸 hysteria2-ba38f39e (United States)",
+        "🇺🇸 hysteria2-43742bb9 (United States)",
+        "🇺🇸 hysteria2-3291da8c (United States)",
+        "🇺🇸 hysteria2-4f31fb1e (United States)",
+        "🇺🇸 hysteria2-9306f675 (United States)",
+        "🇭🇰 hysteria2-848466c1 (Hong Kong)"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "10m",
@@ -153,19 +153,31 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-d90bfd5c (United States)",
-      "server": "1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com",
+      "tag": "🇺🇸 hysteria2-b3f9a7a3 (United States)",
+      "server": "00ee471a-t6ngg0-tbpkla-1otc2.us.hyhuawei.com",
       "server_port": 443,
-      "password": "0abd5d38-fdf1-11ed-bade-f23c91369f2d",
+      "password": "0114339c-488d-11ee-8792-f23c9164ca5d",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "1d4e3b3b-t6ngg0-tedirp-1fli7.us.hyhuawei.com"
+        "server_name": "00ee471a-t6ngg0-tbpkla-1otc2.us.hyhuawei.com"
       }
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-0f8c517c (United States)",
+      "tag": "🇺🇸 hysteria2-e0311d20 (United States)",
+      "server": "71deac1b-t6ngg0-t8xyf4-1l0qa.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "0720c874-35e8-11ef-aa88-f23c913c8d2b",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "71deac1b-t6ngg0-t8xyf4-1l0qa.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-5b44d5ab (United States)",
       "server": "a033d21f-t6ngg0-tcinla-hrtf.us.hyhuawei.com",
       "server_port": 443,
       "password": "0da8651e-e1f6-11ec-bd7c-f23c913c8d2b",
@@ -177,19 +189,31 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-0217ad8b (United States)",
-      "server": "107.167.18.123",
-      "server_port": 1743,
-      "password": "16955d72-1794-11f0-a035-f23c95b6f51d",
+      "tag": "🇺🇸 hysteria2-da8b70ce (United States)",
+      "server": "3cab8bdf-t55r40-tbmeud-1th9y.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "12a81f5a-fa9e-11ef-8400-f23c9164ca5d",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "fecc1dc4-t4v9c0-t5ht86-dnss.la.shifen.uk"
+        "server_name": "3cab8bdf-t55r40-tbmeud-1th9y.us.hyhuawei.com"
       }
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-9d79d9c8 (United States)",
+      "tag": "🇺🇸 hysteria2-1b296287 (United States)",
+      "server": "73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "1469e09e-027c-11ec-a0fc-f23c913c8d2b",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "73260474-t6ngg0-to8xn3-l4nv.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-cf57f65f (United States)",
       "server": "107.167.18.123",
       "server_port": 1743,
       "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
@@ -201,7 +225,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-e20b459e (United States)",
+      "tag": "🇺🇸 hysteria2-7530e88d (United States)",
       "server": "3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk",
       "server_port": 1743,
       "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
@@ -213,19 +237,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-21457ba4 (United States)",
-      "server": "3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk",
-      "server_port": 1743,
-      "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "3d2c11f1-t52o00-tdw2ye-2gok.la.shifen.uk"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-e2412fca (United States)",
+      "tag": "🇺🇸 hysteria2-ccdabe7e (United States)",
       "server": "6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk",
       "server_port": 1743,
       "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
@@ -237,19 +249,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-125f03c6 (United States)",
-      "server": "6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk",
-      "server_port": 1743,
-      "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "6adab57e-t53wg0-tdvgqe-2gok.la.shifen.uk"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-24285f8d (United States)",
+      "tag": "🇺🇸 hysteria2-895019ca (United States)",
       "server": "c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk",
       "server_port": 1743,
       "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
@@ -261,19 +261,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-c598bbe1 (United States)",
-      "server": "c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk",
-      "server_port": 1743,
-      "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-def8cdc6 (United States)",
+      "tag": "🇺🇸 hysteria2-49a87b0b (United States)",
       "server": "c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk",
       "server_port": 1743,
       "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
@@ -285,31 +273,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-01f355dd (United States)",
-      "server": "c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk",
-      "server_port": 1743,
-      "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-84423176 (United States)",
-      "server": "c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk",
-      "server_port": 1743,
-      "password": "17cdeb6c-f046-11ee-bdac-f23c93141fad",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-d2ad254d (United States)",
+      "tag": "🇺🇸 hysteria2-2b3f3d58 (United States)",
       "server": "c0a37350-t4x400-tdtx5w-au6.la.shifen.uk",
       "server_port": 443,
       "password": "1b609740-eec2-11ef-8543-f23c93136cb3",
@@ -321,7 +285,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇳🇱 hysteria2-497ead15 (Netherlands)",
+      "tag": "🇳🇱 hysteria2-d196e73f (Netherlands)",
       "server": "genshin-v4-oracle-amd.damaoooo.com",
       "server_port": 40000,
       "password": "2408982813-20241210",
@@ -333,7 +297,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-6ff12493 (United States)",
+      "tag": "🇺🇸 hysteria2-a5a040d4 (United States)",
       "server": "75.127.13.83",
       "server_port": 47974,
       "password": "2c833c5d-cbcc-4afb-89ba-d17dc39db6f0",
@@ -345,7 +309,31 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇭🇰 hysteria2-6c148e73 (Hong Kong)",
+      "tag": "🇭🇰 hysteria2-5e4cbee0 (Hong Kong)",
+      "server": "2fe149f1-t53wg0-taksay-1tcuf.hk2.hyhuawei.com",
+      "server_port": 443,
+      "password": "3952a514-eaa7-11ef-97da-f23c91cfbbc9",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "2fe149f1-t53wg0-taksay-1tcuf.hk2.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-7f08e6bd (United States)",
+      "server": "8bad3e9f-t53wg0-t7k911-1gxvd.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "398e0d38-8649-11ef-959c-f23c9164ca5d",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "8bad3e9f-t53wg0-t7k911-1gxvd.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇭🇰 hysteria2-e4fb4491 (Hong Kong)",
       "server": "96d1fb9f-t6ngg0-t9lc3n-z93q.hk1.hyhuawei.com",
       "server_port": 443,
       "password": "40639730-e027-11ea-87ad-f23c913c8d2b",
@@ -357,7 +345,55 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-592638ed (United States)",
+      "tag": "🇺🇸 hysteria2-e887c23b (United States)",
+      "server": "42f2714e-t59gg0-tfi5fd-1imi4.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "40fb1315-191a-11ed-b0ca-f23c91cfbbc9",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "42f2714e-t59gg0-tfi5fd-1imi4.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-d208c771 (United States)",
+      "server": "2f605a10-t6ngg0-t7bo2t-1psmw.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "42bb6d36-97c7-11ee-be7f-f23c9164ca5d",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "2f605a10-t6ngg0-t7bo2t-1psmw.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-c4118607 (United States)",
+      "server": "e11104bd-t53wg0-tkn6t8-1i3g8.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "437cef58-f10b-11ef-8eaf-f23c9164ca5d",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "e11104bd-t53wg0-tkn6t8-1i3g8.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-fda19183 (United States)",
+      "server": "8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "51362ab6-b5e6-11ea-ad28-f23c913c8d2b",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "8ce460ac-t6ngg0-tnkuks-wujn.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-d272fe69 (United States)",
       "server": "107.167.18.123",
       "server_port": 1743,
       "password": "537d7098-fdbe-11ef-8ebc-f23c93141fad",
@@ -369,31 +405,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-0af115c1 (United States)",
-      "server": "14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk",
-      "server_port": 1743,
-      "password": "537d7098-fdbe-11ef-8ebc-f23c93141fad",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-89df76cb (United States)",
-      "server": "14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk",
-      "server_port": 1743,
-      "password": "537d7098-fdbe-11ef-8ebc-f23c93141fad",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-ace5f7d4 (United States)",
+      "tag": "🇺🇸 hysteria2-1d302261 (United States)",
       "server": "eca509d2-t56dc0-tcjtj6-d70y.la.shifen.uk",
       "server_port": 443,
       "password": "537d7098-fdbe-11ef-8ebc-f23c93141fad",
@@ -405,7 +417,43 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-f82a2319 (United States)",
+      "tag": "🇺🇸 hysteria2-ba38f39e (United States)",
+      "server": "e142507c-t53wg0-tcw58g-1p0be.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "55cce5a4-56b7-11ee-af82-f23c9164ca5d",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "e142507c-t53wg0-tcw58g-1p0be.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-43742bb9 (United States)",
+      "server": "62896d89-t6ngg0-tamumc-1lkbs.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "5a4c13ae-6673-11ee-a149-f23c9164ca5d",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "62896d89-t6ngg0-tamumc-1lkbs.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-3291da8c (United States)",
+      "server": "a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com",
+      "server_port": 443,
+      "password": "5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b",
+      "tls": {
+        "enabled": true,
+        "insecure": true,
+        "server_name": "a4cf26ca-t55r40-tcop2n-tl32.us.hyhuawei.com"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸 hysteria2-4f31fb1e (United States)",
       "server": "35dc1201-t6ngg0-t7enwo-1f1f1.us.hyhuawei.com",
       "server_port": 443,
       "password": "61c4be90-6235-11ec-a8bf-f23c91cfbbc9",
@@ -417,7 +465,7 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-98124e8f (United States)",
+      "tag": "🇺🇸 hysteria2-9306f675 (United States)",
       "server": "227fd503-t4ssg0-t5vo4i-4550.la.shifen.uk",
       "server_port": 1743,
       "password": "6286105c-fb6d-11ef-be96-f23c93136cb3",
@@ -429,62 +477,14 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇺🇸 hysteria2-9ea2aa67 (United States)",
-      "server": "d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com",
+      "tag": "🇭🇰 hysteria2-848466c1 (Hong Kong)",
+      "server": "fe12b722-t53wg0-tcp4th-1c4g6.hk1.hyhuawei.com",
       "server_port": 443,
-      "password": "6857f1bc-f27b-11ea-87ad-f23c913c8d2b",
+      "password": "676c67c6-5e73-11ee-9a79-f23c9164ca5d",
       "tls": {
         "enabled": true,
         "insecure": true,
-        "server_name": "d2ab175b-t55r40-tgzvop-hns7.us.hyhuawei.com"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🏳️ hysteria2-3dec10c7 (Unknown)",
-      "server": "2001:bc8:1640:50eb:dc00:ff:fe57:dd6f",
-      "server_port": 443,
-      "password": "71504eaf-29ac-4190-89d1-dd9ce2c9ee14",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "Ab.ac"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇸🇪 hysteria2-33f21593 (Sweden)",
-      "server": "dd.openaccessnode.com",
-      "server_port": 989,
-      "password": "77238c49bd20e407f05e0c073ad08fdb",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "dd.ircybersec.org"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 hysteria2-191ace36 (Germany)",
-      "server": "de1.oomz.ru",
-      "server_port": 30000,
-      "password": "7b5cbc6a-90a1-4b6e-994e-4c198b85f80b",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "bing.com"
-      }
-    },
-    {
-      "type": "hysteria2",
-      "tag": "🇩🇪 hysteria2-ef673fea (Germany)",
-      "server": "de2.oomz.ru",
-      "server_port": 30000,
-      "password": "7b5cbc6a-90a1-4b6e-994e-4c198b85f80b",
-      "tls": {
-        "enabled": true,
-        "insecure": true,
-        "server_name": "bing.com"
+        "server_name": "fe12b722-t53wg0-tcp4th-1c4g6.hk1.hyhuawei.com"
       }
     }
   ],
