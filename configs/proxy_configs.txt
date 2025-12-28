@@ -36,9 +36,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000/?insecure=1&
 
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
-hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%40REDFREE8
-
-hysteria2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%40REDFREE8
+hysteria2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#%40REDFREE8
 
 hysteria2://dongtaiwang.com@[2001:bc8:1203:209::60]:33880/?insecure=1&sni=apple.com#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
 
