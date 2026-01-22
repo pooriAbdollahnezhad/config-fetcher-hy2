@@ -12,8 +12,6 @@ hysteria2://6286105c-fb6d-11ef-be96-f23c93136cb3@227fd503-t4ssg0-t5vo4i-4550.la.
 
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
-hysteria2://7424db1f-ba68-496d-9426-4018b6a3a23c@de3.xiaoliyu.cyou:4433/?insecure=1&sni=de3.xiaoliyu.cyou#%40REDFREE8
-
 hysteria2://881c153c-cf33-4bfc-b7ff-4a90163c160f@rb.kaixincloud.top:443/?mport=25200-26200&sni=rb.kaixincloud.top#%40REDFREE8%20%F0%9F%87%AF%F0%9F%87%B5
 
 hysteria2://Telegram--%3E%40Ln2Ray@206.71.158.23:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram--%3E%40Ln2Ray#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
