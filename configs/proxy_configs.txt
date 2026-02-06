@@ -42,8 +42,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1#%40REDFREE
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=%F0%9F%94%92#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%B7
 
-hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443/?insecure=1&sni=www.apple.com#%40REDFREE8
-
 hysteria2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U#%40REDFREE8%20%F0%9F%87%A6%F0%9F%87%B9
 
 hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%AE
