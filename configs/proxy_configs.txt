@@ -6,6 +6,12 @@
 
 hysteria2://4077295f-4d0c-4130-af89-66cfef13ea6f@85.209.53.170:443/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
 
+hysteria2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000/?insecure=1&sni=www.lamer.com.hk#%40REDFREE8
+
+hysteria2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.153.25.59:35000/?insecure=1&sni=www.lamer.com.hk#%40REDFREE8
+
+hysteria2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@143.47.32.143:35000/?insecure=1&sni=www.lamer.com.hk#%40REDFREE8
+
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://881c153c-cf33-4bfc-b7ff-4a90163c160f@rb.kaixincloud.top:443/?mport=25200-26200&sni=rb.kaixincloud.top#%40REDFREE8%20%F0%9F%87%AF%F0%9F%87%B5
