@@ -4,9 +4,11 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://1y4HweESOT@sss.ikun6.dpdns.org:27995/?insecure=1&sni=azure.microsoft.com#%40REDFREE8
+hysteria2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#%40REDFREE8
 
 hysteria2://4077295f-4d0c-4130-af89-66cfef13ea6f@85.209.53.170:443/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%40REDFREE8%20%F0%9F%87%A9%F0%9F%87%AA
+
+hysteria2://5046SHWqk6@91.132.51.160:844/#%40REDFREE8
 
 hysteria2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
