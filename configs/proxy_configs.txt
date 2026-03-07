@@ -46,6 +46,8 @@ hysteria2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&sn
 
 hysteria2://freehomesvpnmahsa3@donate1.mahsa.homes:16396/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U#%40REDFREE8%20%F0%9F%87%AB%F0%9F%87%AE
 
+hysteria2://ilikecs123%21@66.154.127.121:443/?insecure=1&sni=cloudcone.wolfmoss.top#%40REDFREE8
+
 hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599/?insecure=1&sni=www.bing.com#%40REDFREE8%20%F0%9F%87%B3%F0%9F%87%B1
 
 hysteria2://sysadmin.sysadmin@167.234.249.46:444/?insecure=1&sni=a.961229.xyz#%40REDFREE8%20%F0%9F%87%A7%F0%9F%87%B7
