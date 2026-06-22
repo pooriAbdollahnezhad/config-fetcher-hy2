@@ -54,9 +54,9 @@ hysteria2://linux.do@[2a01:4f9:4b:f378::1]:13599/?insecure=1&sni=www.bing.com#%4
 
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#%40REDFREE8
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#%40REDFREE8
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.70.127.37:443/?insecure=1#%40REDFREE8
 
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-002.fastervpn.world:443/?insecure=1#%40REDFREE8
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.79.47.137:443/?insecure=1#%40REDFREE8
 
 hysteria2://sysadmin.sysadmin@167.234.249.46:444/?insecure=1&sni=a.961229.xyz#%40REDFREE8%20%F0%9F%87%A7%F0%9F%87%B7
 
