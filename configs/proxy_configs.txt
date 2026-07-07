@@ -4,10 +4,6 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#%40REDFREE8
-
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?sni=fta.fontanvpn.com#%40REDFREE8
-
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.129:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40REDFREE8
 
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.130:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40REDFREE8
@@ -28,7 +24,11 @@ hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.153:8449/?insecure=1
 
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.160:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40REDFREE8
 
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.161:8449?security=tls&insecure=0&sni=sni.fi-m247-02.com#%40REDFREE8
+
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.166:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40REDFREE8
+
+hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.168:8449/?insecure=1&sni=sni.fi-m247-02.com#%40REDFREE8
 
 hysteria2://03e7f55f-22f8-4564-880f-b86c8cdbf140@45.196.182.172:8449/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%40REDFREE8
 
