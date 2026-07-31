@@ -4,9 +4,7 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@germany1.noesissite.ru:443/?sni=germany1.noesissite.ru#%40REDFREE8
-
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@usp.noesissite.ru:443/?sni=usp.noesissite.ru#%40REDFREE8
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443/?sni=prodfr.h2corp.org#%40REDFREE8
 
 hysteria2://4z2oldt85p494bgb@95.217.96.131:52021/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%40REDFREE8
 
@@ -59,6 +57,8 @@ hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021/?sni=assets.gateway
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52022/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#%40REDFREE8
 
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52023/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#%40REDFREE8
+
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52024/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=t72hzzenktxmrvgu#%40REDFREE8
 
 tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738/?congestion_control=bbr&udp_relay_mode=quic&sni=sg2-8sb.6121999.dpdns.org&alpn=h3#%40REDFREE8
 
