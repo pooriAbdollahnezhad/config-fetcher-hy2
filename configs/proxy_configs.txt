@@ -8,59 +8,55 @@ hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@83.243.86.80:443/?s
 
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443/?sni=prodfr.h2corp.org#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@95.217.96.131:52021/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%40REDFREE8
+hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@95.217.96.131:52060/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#%40REDFREE8
+hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@95.217.96.131:52061/?insecure=1&obfs=salamander&obfs-password=fd3olglr2bmimgje#%40REDFREE8
+hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443/?sni=ger.leontunel.ru#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@95.217.96.131:52061/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje#%40REDFREE8
+hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001/?insecure=1#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52000/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=gu74jg3ym0e21zco#%40REDFREE8
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@87.121.105.108:443/?sni=swe-one.quiet-rogue.site#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52002/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ielzukpwth087afx#%40REDFREE8
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@fi-one.quiet-rogue.site:443/?sni=fi-one.quiet-rogue.site#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52003/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=5xo4v7u2pv8bktvb#%40REDFREE8
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52004/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mczdcsrottar7v8t#%40REDFREE8
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443/?sni=swe-one.quiet-rogue.site#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52005/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=xurzv3qedv07k4f0#%40REDFREE8
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52006/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=s3dhdo4iiqy08m1a#%40REDFREE8
+hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443/?sni=usa1.spectrumproxy.shop#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52007/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=spnztx6bizygjnwp#%40REDFREE8
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.213:8443/?sni=mercedes-grape.yyuyy.com#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52008/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=93lc6r07zfx4crct#%40REDFREE8
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443/?sni=mercedes-grape.yyuyy.com#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52009/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=kf1lypzqidy6pimt#%40REDFREE8
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@flkf3.mangshe.xyz:2056/?insecure=1&sni=flkf3.mangshe.xyz#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52010/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ntygj5lde0e7tm1m#%40REDFREE8
+hysteria2://9d3356a0-c07e-43cc-b30e-450bd50521b8@xby.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52011/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=ovh8r7rf5axi7pn3#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52012/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=sdx1qdzqgp8lcajn#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.197.139:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52013/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.237.219.57:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Fclashv8%F0%9F%87%A8%F0%9F%87%B3#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52014/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=3ud1xtuaykuz5z3a#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.52.234:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52015/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=jguj75v4supsi4fm#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.183.85.24:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52016/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fsc92dsh321o5h3r#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52017/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=sesmom0drl168l62#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52018/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=53cgqwhojoxri5lr#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443/?insecure=1&sni=vpn-ca-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021/?obfs=salamander&obfs-password=mtg2vchyir6la3et#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-fr-002.fastervpn.world:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52021/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52022/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=1wcfqg6gwoyxlplo#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#%40REDFREE8
 
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52023/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=detgimgm8qh8i2g2#%40REDFREE8
-
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:33738/?congestion_control=bbr&udp_relay_mode=quic&sni=sg2-8sb.6121999.dpdns.org&alpn=h3#%40REDFREE8
-
-tuic://2d1ad594-80a4-4bfb-87a6-038e39701f51:2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:33738/?congestion_control=bbr&udp_relay_mode=quic&sni=sg2-8sb.6121999.dpdns.org&alpn=h3#%40REDFREE8
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.117:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#%40REDFREE8
 
