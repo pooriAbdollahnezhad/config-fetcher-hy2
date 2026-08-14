@@ -4,27 +4,21 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
+hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@193.23.194.78:443/?insecure=1&sni=nl1.noesissite.ru#%40REDFREE8
+
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#%40REDFREE8
 
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%40REDFREE8
 
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%40REDFREE8
 
-hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@103.27.156.125:443/?sni=node-degame.bangboonet.ru#%40REDFREE8
-
-hysteria2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@node-degame.bangboonet.ru:443/?insecure=1&sni=node-degame.bangboonet.ru#%40REDFREE8
-
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?sni=gorbachev-th.kvnfreetest.uk#%40REDFREE8
 
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@gorbachev-th.kvnfreetest.uk:55443/?sni=gorbachev-th.kvnfreetest.uk#%40REDFREE8
 
-hysteria2://6fe3a600-4bcf-4040-81eb-ccd29231db2b@155.117.19.221:30001/?insecure=1#%40REDFREE8
-
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@138.124.68.188:443/?sni=usa1.spectrumproxy.shop#%40REDFREE8
 
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443/?sni=usa1.spectrumproxy.shop#%40REDFREE8
-
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@151.247.193.5:8443/?sni=iq5ny.pleiades.codes#%40REDFREE8
 
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?insecure=1&sni=iq5ny.pleiades.codes#%40REDFREE8
 
@@ -56,7 +50,13 @@ hysteria2://TelegramVPNjey@179.61.251.253:37003/?sni=de.jey.cc.cd&obfs=salamande
 
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333/?sni=hy2.123266.xyz#%40REDFREE8
 
+hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@94.183.188.132:55443/?insecure=1&sni=host-vds2-fr.kvncococ.org#%40REDFREE8
+
 hysteria2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?insecure=1&sni=host-vds2-fr.kvncococ.org#%40REDFREE8
 
 hysteria2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%40REDFREE8
+
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%40REDFREE8
+
+hysteria2://dongtaiwang.com@hy2.561891.xyz:44356/?sni=hy2.561891.xyz#%40REDFREE8
 
