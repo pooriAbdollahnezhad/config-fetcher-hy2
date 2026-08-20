@@ -6,17 +6,19 @@
 
 hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@150.241.102.127:443/?insecure=1&sni=150.241.102.127#%40REDFREE8
 
-hysteria2://042a1881-44e4-4781-bd40-bf75164faf4f@nl1.noesissite.ru:443/?insecure=1&sni=nl1.noesissite.ru#%40REDFREE8
-
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?sni=gorbachev-new-th.kvnfreetest.uk#%40REDFREE8
 
 hysteria2://083417772bc618cd61f0cca23dd91680@gorbachev-new-th.kvnfreetest.uk:55443/?sni=gorbachev-new-th.kvnfreetest.uk#%40REDFREE8
+
+hysteria2://085178e12d2211ec@nl.prisma-access.club:8445/?insecure=1&sni=nl.prisma-access.club#%40REDFREE8
 
 hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808/?sni=nl7.unlockvpn.online#%40REDFREE8
 
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%40REDFREE8
 
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%40REDFREE8
+
+hysteria2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@82.22.41.10:443/?insecure=1#%40REDFREE8
 
 hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?insecure=1&sni=iq5ny.pleiades.codes#%40REDFREE8
 
@@ -32,6 +34,8 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-0
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%40REDFREE8
 
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%40REDFREE8
+
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%40REDFREE8
@@ -44,6 +48,8 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?insecure
 
 hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.165:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#%40REDFREE8
 
+hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.166:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#%40REDFREE8
+
 hysteria2://Krab9Hyst2_Rk7pQ2xL@151.247.197.253:36723/?insecure=1&sni=www.cloudflare.com#%40REDFREE8
 
 hysteria2://Krab9Hyst2_Rk7pQ2xL@95.164.123.231:36723/?insecure=1&sni=www.cloudflare.com#%40REDFREE8
@@ -53,10 +59,4 @@ hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%40REDFREE8
 
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#%40REDFREE8
-
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.68:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#%40REDFREE8
-
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.69:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#%40REDFREE8
-
-hysteria2://TelegramVPNjey@179.61.251.253:37003/?sni=de.jey.cc.cd&obfs=salamander&obfs-password=83v9muumcyikh5ch#%40REDFREE8
 
