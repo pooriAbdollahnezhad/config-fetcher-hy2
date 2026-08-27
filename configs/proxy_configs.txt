@@ -6,16 +6,6 @@
 
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#%40REDFREE8
 
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@177.3.212.155:443/?insecure=1&sni=olp.crsmaps.com#%40REDFREE8
-
-hysteria2://16ab4d4a-fd81-4535-9b7b-346677226ce8@olp.crsmaps.com:443/?insecure=1&sni=olp.crsmaps.com#%40REDFREE8
-
-hysteria2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.207:443/?insecure=1&sni=194.135.34.207#%40REDFREE8
-
-hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@79.137.205.35:10808/?sni=nl7.unlockvpn.online#%40REDFREE8
-
-hysteria2://1f619326-cd93-4d6b-aebe-e0b5f8831d02@nl7.unlockvpn.online:10808/?sni=nl7.unlockvpn.online#%40REDFREE8
-
 hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%40REDFREE8
 
 hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%40REDFREE8
@@ -27,6 +17,8 @@ hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetv
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%40REDFREE8
 
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%40REDFREE8
+
+hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%40REDFREE8
 
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443/?insecure=1&sni=streambox.wwwinternetvideo.click#%40REDFREE8
 
@@ -48,15 +40,23 @@ hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443/?insecure=1&sni=h
 
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#%40REDFREE8
 
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-switzerlandgopota.unlimited-access.ru:443/?sni=hy2-switzerlandgopota.unlimited-access.ru#%40REDFREE8
+
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%40REDFREE8
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.118.193.169:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%40REDFREE8
-
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%40REDFREE8
-
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.149.228.246:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%40REDFREE8
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%40REDFREE8
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#%40REDFREE8
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%40REDFREE8
+
+hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%40REDFREE8
+
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#%40REDFREE8
 
