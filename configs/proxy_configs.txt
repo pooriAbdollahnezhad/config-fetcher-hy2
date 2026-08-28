@@ -18,7 +18,11 @@ hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insec
 
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%40REDFREE8
 
+hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mg3.mangshe.xyz:2056/?insecure=1&sni=mg3.mangshe.xyz#%40REDFREE8
+
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%40REDFREE8
+
+hysteria2://84a506ca5aca505696a454d828420b3f@140.238.213.114:50160/?insecure=1&sni=www.bing.com#%40REDFREE8
 
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@217.60.33.215:443/?insecure=1&sni=streambox.wwwinternetvideo.click#%40REDFREE8
 
@@ -28,13 +32,15 @@ hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@185.191.238.202:443/?insecure=1
 
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@che01plrhy01.tcp-reset-club.net:443/?insecure=1&sni=che01plrhy01.tcp-reset-club.net#%40REDFREE8
 
-hysteria2://95e8532b-cc69-42d4-9553-e3c23292b15b@81.168.62.17:8443/?insecure=1&sni=iq5ny.pleiades.codes#%40REDFREE8
-
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.108:8443/?insecure=1&sni=hopp-germany-new.ddnsguru.com#%40REDFREE8
 
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.109:8443/?insecure=1&sni=hopp-germany-new.ddnsguru.com#%40REDFREE8
 
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.111:8443/?insecure=1&sni=hopp-germany-new.ddnsguru.com#%40REDFREE8
+
+hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1#%40REDFREE8
+
+hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443/?insecure=1&sni=hys13.wba-pn.ru#%40REDFREE8
 
 hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@193.41.5.243:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#%40REDFREE8
 
@@ -48,15 +54,9 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-kr-003.fastervpn.world:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%40REDFREE8
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=127.0.0.1#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#%40REDFREE8
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443/?insecure=1&sni=vpn-tw-002.fastervpn.world#%40REDFREE8
-
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443/?insecure=1&sni=vpn-us-003.fastervpn.world#%40REDFREE8
-
-hysteria2://Krab9Hyst2_Rk7pQ2xL@de2.vpn.legendaah.xyz:36723/?insecure=1&sni=www.cloudflare.com#%40REDFREE8
-
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.162:8443/?insecure=1&sni=hopp-netherland-new.dynuddns.net#%40REDFREE8
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#%40REDFREE8
 
