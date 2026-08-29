@@ -6,10 +6,6 @@
 
 hysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk#%40REDFREE8
 
-hysteria2://22j0d00lev7mq0yv@musicclips.videolinks.ru:8443/?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#%40REDFREE8
-
-hysteria2://22j0d00lev7mq0yv@social.klipp.su:443/?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#%40REDFREE8
-
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&sni=replay.wwwinternetvideo.click#%40REDFREE8
 
 hysteria2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@replay.wwwinternetvideo.click:443/?insecure=1&sni=replay.wwwinternetvideo.click#%40REDFREE8
@@ -19,6 +15,8 @@ hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insec
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%40REDFREE8
 
 hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mg3.mangshe.xyz:2056/?insecure=1&sni=mg3.mangshe.xyz#%40REDFREE8
+
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443/?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%40REDFREE8
 
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%40REDFREE8
 
@@ -59,4 +57,6 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%40REDFREE8
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%40REDFREE8
 
