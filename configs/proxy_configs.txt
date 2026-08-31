@@ -14,10 +14,6 @@ hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insec
 
 hysteria2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@pixelcast.wwwinternetvideo.click:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%40REDFREE8
 
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@166.88.228.161:2056/?insecure=1&sni=mg3.mangshe.xyz#%40REDFREE8
-
-hysteria2://41f0d6d3-4a45-4635-8225-2abd2284189b@mg3.mangshe.xyz:2056/?insecure=1&sni=mg3.mangshe.xyz#%40REDFREE8
-
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443/?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%40REDFREE8
 
 hysteria2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk#%40REDFREE8
@@ -34,6 +30,8 @@ hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.109:8443/?insecure=
 
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.111:8443/?insecure=1&sni=hopp-germany-new.ddnsguru.com#%40REDFREE8
 
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8443/?insecure=1&sni=hopp-germany-new.ddnsguru.com#%40REDFREE8
+
 hysteria2://BWAFlp8g53@72.56.102.31:443/?insecure=1#%40REDFREE8
 
 hysteria2://BWAFlp8g53@hys28.wba-pn.ru:443/?insecure=1#%40REDFREE8
@@ -43,6 +41,8 @@ hysteria2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@fast.wwwinternetvid
 hysteria2://CnVfXXvMzh@72.56.92.120:443/?insecure=1&sni=hys13.wba-pn.ru#%40REDFREE8
 
 hysteria2://CnVfXXvMzh@hys13.wba-pn.ru:443/?insecure=1&sni=hys13.wba-pn.ru#%40REDFREE8
+
+hysteria2://EkF2Yw0Lc7@72.56.16.243:443/?insecure=1&sni=hys34.wba-pn.ru#%40REDFREE8
 
 hysteria2://EkF2Yw0Lc7@hys34.wba-pn.ru:443/?insecure=1&sni=hys34.wba-pn.ru#%40REDFREE8
 
@@ -56,7 +56,7 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443/?insecure=1&sni=t.me#%40R
 
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1&sni=202.146.222.29#%40REDFREE8
 
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.96.245:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%40REDFREE8
-
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world#%40REDFREE8
+
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.162.6:443/?insecure=1&sni=vpn-fr-001.fastervpn.world#%40REDFREE8
 
